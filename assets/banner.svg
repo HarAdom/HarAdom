@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450" role="img" aria-label="Har Adom cyber profile terminal banner with hacker penguin illustration">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c1016"/><stop offset="1" stop-color="#141d22"/></linearGradient>
+ <linearGradient id="face" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0" stop-color="#f6f6f0"/><stop offset="1" stop-color="#cbd9d4"/></linearGradient>
+ <linearGradient id="head" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2d4557"/><stop offset="1" stop-color="#16212d"/></linearGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#92ffc0" stroke-opacity=".055" stroke-width="1"/></pattern>
+ <clipPath id="lensLeft"><rect x="819" y="220" width="128" height="62" rx="25"/></clipPath>
+ <clipPath id="lensRight"><rect x="971" y="220" width="128" height="62" rx="25"/></clipPath>
+</defs>
+<rect width="1200" height="450" fill="url(#bg)"/>
+<rect width="1200" height="450" fill="url(#grid)"/>
+<path d="M696 0L600 450M780 0L684 450M1140 0L1044 450" stroke="#95edbf" stroke-opacity=".04" stroke-width="2"/>
+<!-- terminal frame -->
+<rect x="23" y="23" width="1154" height="404" rx="16" fill="none" stroke="#35454b" stroke-width="2"/>
+<path d="M24 69H1176" stroke="#35454b" stroke-width="2"/>
+<circle cx="52" cy="46" r="7" fill="#fa756c"/><circle cx="76" cy="46" r="7" fill="#e4ba60"/><circle cx="100" cy="46" r="7" fill="#6ac89d"/>
+<text x="130" y="52" fill="#8e9ca5" font-family="DejaVu Sans Mono, monospace" font-size="17">haradom@github: ~/profile</text>
+<text x="1143" y="52" fill="#6d7d83" text-anchor="end" font-family="DejaVu Sans Mono, monospace" font-size="15">README.md</text>
+<!-- terminal text -->
+<text x="76" y="126" fill="#94e8b2" font-family="DejaVu Sans Mono, monospace" font-size="20">$ whoami</text>
+<text x="74" y="208" fill="#f3f5f3" font-family="DejaVu Sans, sans-serif" font-size="72" font-weight="bold" letter-spacing="-3">HAR <tspan fill="#a7f1bd">ADOM</tspan></text>
+<rect x="77" y="235" width="420" height="2" fill="#5d786a"/>
+<text x="76" y="271" fill="#e2e9e5" font-family="DejaVu Sans Mono, monospace" font-size="20">IT SYSTEMS / CYBERSECURITY</text>
+<text x="76" y="306" fill="#e2e9e5" font-family="DejaVu Sans Mono, monospace" font-size="20">UNIX / CTF / OPEN SOURCE</text>
+<text x="76" y="360" fill="#8a9a9a" font-family="DejaVu Sans Mono, monospace" font-size="17">catanzaro  <tspan fill="#f6a35b">-&gt;</tspan>  modena, italy</text>
+<text x="76" y="395" fill="#94e8b2" font-family="DejaVu Sans Mono, monospace" font-size="18">$ <tspan fill="#f7bd76">_</tspan></text>
+<!-- decorative packet/terminal strokes -->
+<g stroke="#7ceaab" stroke-opacity=".14" fill="none" stroke-width="2"><path d="M715 118h110v-25h50"/><path d="M1120 150h-40v-27h-52"/><path d="M738 362h69v27h64"/><circle cx="875" cy="93" r="5"/><circle cx="1028" cy="123" r="5"/><circle cx="871" cy="389" r="5"/></g>
+<!-- mascot halo & body -->
+<circle cx="966" cy="261" r="168" fill="#b8f4cc" fill-opacity=".035" stroke="#b6ebbe" stroke-opacity=".16" stroke-width="2"/>
+<path d="M835 413q-2-72 48-92h165q55 23 49 92" fill="#263340" stroke="#476070" stroke-width="3"/>
+<ellipse cx="961" cy="260" rx="145" ry="161" fill="url(#head)" stroke="#4a6673" stroke-width="4"/>
+<!-- side headphone arcs -->
+<path d="M824 257q-17-131 134-148q142-1 149 147" fill="none" stroke="#f0a366" stroke-width="14" stroke-linecap="round"/>
+<rect x="810" y="239" width="25" height="73" rx="11" fill="#f0a366"/><rect x="1087" y="239" width="25" height="73" rx="11" fill="#f0a366"/>
+<!-- penguin face -->
+<ellipse cx="960" cy="285" rx="122" ry="119" fill="url(#face)"/>
+<!-- small crest -->
+<path d="M923 111q28-25 58-12q-19 5-21 29" stroke="#304b5d" stroke-width="11" fill="none" stroke-linecap="round"/>
+<!-- glasses arms -->
+<path d="M822 234l-35-11M1101 233l28-11" fill="none" stroke="#0c0e11" stroke-width="9" stroke-linecap="round"/>
+<rect x="817" y="219" width="131" height="65" rx="26" fill="#0e1d19" stroke="#0e1114" stroke-width="7"/>
+<rect x="970" y="219" width="131" height="65" rx="26" fill="#0e1d19" stroke="#0e1114" stroke-width="7"/>
+<path d="M948 239q12-10 22 0" fill="none" stroke="#0e1114" stroke-width="10"/>
+<!-- numbers inside shades -->
+<g font-family="DejaVu Sans Mono, monospace" font-size="13" fill="#6bef95" fill-opacity=".60">
+<g clip-path="url(#lensLeft)"><text x="826" y="236">1 0 1 0 1 1</text><text x="829" y="256">0 1 0 1 0 1</text><text x="826" y="278">1 1 0 0 1 0</text></g>
+<g clip-path="url(#lensRight)"><text x="977" y="236">0 1 1 0 1 0</text><text x="976" y="256">1 0 1 0 0 1</text><text x="979" y="278">0 1 1 1 0 1</text></g>
+</g>
+<path d="M837 223q50 0 85 17M990 230q50-17 85-7" fill="none" stroke="#c7fce0" stroke-opacity=".18" stroke-width="7" stroke-linecap="round"/>
+<!-- beak -->
+<path d="M948 304q17-14 34 0q11 13-17 30q-29-16-17-30Z" fill="#f7ab5f" stroke="#a86e3e" stroke-width="3"/>
+<path d="M949 309q16 8 32 0" fill="none" stroke="#e77866" stroke-width="3"/>
+<!-- hoodie seam & badge -->
+<path d="M900 409l41-39q18 22 38 0l39 39" fill="none" stroke="#48616a" stroke-width="4"/>
+<text x="962" y="410" text-anchor="middle" fill="#a6e4c1" font-size="19" font-family="DejaVu Sans Mono, monospace">&gt;_</text>
+</svg>
